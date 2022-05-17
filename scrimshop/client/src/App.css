@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.register--container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  height: 40%;
+  margin: auto;
+  align-items: center;
+  border: 3px solid black;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.register--input {
+  margin: 10px 0px 3px 0px;
+  padding: 3px 3px 3px 1px;
+}
+
+.register--button {
+  margin-top: 10px;
+}
+
+.cardsDisplay {
+  display: flex;
+  flex-wrap: wrap;
+}

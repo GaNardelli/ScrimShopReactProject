@@ -1,0 +1,19 @@
+.cardGame--container {
+    margin: 10px;
+    width: 25%;
+    border: 2px solid gray;
+    padding: 10px;
+}
+
+.cardGame--btn__delete {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.cardGame--btn__delete:hover {
+    background-color: crimson;
+    cursor: pointer;
+}
